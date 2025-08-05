@@ -8,6 +8,7 @@ Este proyecto analiza y detecta transacciones fraudulentas con tarjetas de créd
 
 Detectar transacciones potencialmente fraudulentas a partir de datos históricos mediante la identificación de patrones y la construcción de un modelo de clasificación que ayude a las instituciones financieras a reducir el riesgo.
 
+Todos los codigos se encuentran en el archivo notebook
 ---
 
 ## 🧰 Herramientas y Tecnologías
