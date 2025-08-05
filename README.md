@@ -63,6 +63,7 @@ El dataset contiene más de 300,000 transacciones con 15 columnas, incluyendo:
 
 - Se logró construir un pipeline de análisis completo, desde la limpieza de datos hasta el modelado supervisado, enfocado en la detección de fraude con tarjetas de crédito.
 - Se observó que las transacciones fraudulentas presentan **patrones distintos** en variables como el monto (`amt`), la hora (`trans_date_trans_time`) y la distancia entre el comercio y el titular.
+- Se uso validacion cruzada para confirmar los resultados
 
 ---
 
